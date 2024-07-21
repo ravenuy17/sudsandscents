@@ -9,4 +9,4 @@ To run server with nodemon, run:
 ### `npm run dev`
 
 To run server without nodemon, run:
-### `npm run start`
+### `npm start`
