@@ -25,3 +25,5 @@ server.get("/", (req, res) => {
 server.listen(port, () => {
   console.log(`Server listening at port ${port}`);
 });
+
+console.log("Henlo");
