@@ -1,3 +1,7 @@
+# Setup .env
+Before running the server, create a .env file in this directory. Inside it, set MONGODB_URI to your connection string
+### `MONGODB_URI=<Your connection string>`
+
 # Express Server
 
 Recommended to install nodemon
